@@ -1,0 +1,217 @@
+@import "tailwindcss";
+
+/* ============================================================
+   Way Bible — 디자인 시스템
+   ============================================================ */
+
+:root {
+  /* ── 색상 팔레트 (라이트) ── */
+  --color-bg: #ffffff;
+  --color-bg-secondary: #f8f9fc;
+  --color-surface: #ffffff;
+  --color-border: #e5e7eb;
+  --color-text-primary: #1a1a2e;
+  --color-text-secondary: #6b7280;
+  --color-text-muted: #9ca3af;
+  --color-accent: #4361ee;
+  --color-accent-hover: #3651d4;
+  --color-accent-light: #4361ee15;
+
+  /* ── 레이아웃 ── */
+  --header-height: 3.5rem;
+  --bottom-nav-height: 4rem;
+}
+
+.dark {
+  --color-bg: #1a1a2e;
+  --color-bg-secondary: #16162a;
+  --color-surface: #222240;
+  --color-border: #3a3a5c;
+  --color-text-primary: #f0f0f5;
+  --color-text-secondary: #c8c8da;
+  --color-text-muted: #9090a8;
+  --color-accent: #6c8cff;
+  --color-accent-hover: #8ca4ff;
+  --color-accent-light: #6c8cff25;
+}
+
+@theme inline {
+  --color-background: var(--color-bg);
+  --color-foreground: var(--color-text-primary);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans, Arial, Helvetica, sans-serif);
+  transition: background-color 0.3s ease, color 0.3s ease;
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* ============================================================
+   페이지 전환 애니메이션
+   ============================================================ */
+@keyframes page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-page-enter {
+  animation: page-enter 0.3s ease-out both;
+}
+
+/* ============================================================
+   스켈레톤 로딩 애니메이션
+   ============================================================ */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.skeleton {
+  background: linear-gradient(90deg, var(--color-border) 25%, transparent 50%, var(--color-border) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+  border-radius: 0.5rem;
+}
+
+/* ============================================================
+   토스트 애니메이션
+   ============================================================ */
+@keyframes toast-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.95);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes toast-out {
+  from {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  to {
+    opacity: 0;
+    transform: translateY(-10px) scale(0.95);
+  }
+}
+
+.toast-enter {
+  animation: toast-in 0.3s ease-out both;
+}
+
+.toast-exit {
+  animation: toast-out 0.2s ease-in both;
+}
+
+/* ============================================================
+   버튼 리플 효과
+   ============================================================ */
+.btn-ripple {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-ripple::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at var(--ripple-x, 50%) var(--ripple-y, 50%), rgba(255, 255, 255, 0.3) 0%, transparent 60%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.btn-ripple:active::after {
+  opacity: 1;
+  transition: opacity 0s;
+}
+
+/* ── 카드 터치 피드백 ── */
+.card-press {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.card-press:active {
+  transform: scale(0.98);
+}
+
+/* ============================================================
+   접근성 — 최소 터치 타겟(44px)
+   ============================================================ */
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* ============================================================
+   스크롤바
+   ============================================================ */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 3px;
+}
+
+/* 가로 스크롤 숨김 (플랜 카드 등) */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* ============================================================
+   다크 모드 전환
+   ============================================================ */
+*,
+*::before,
+*::after {
+  transition-property: background-color, border-color;
+  transition-duration: 0.2s;
+  transition-timing-function: ease;
+}
+
+.animate-spin,
+[class*="animate-"],
+.skeleton {
+  transition: none !important;
+}
+
+/* ============================================================
+   포커스 링 (접근성)
+   ============================================================ */
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: 4px;
+}

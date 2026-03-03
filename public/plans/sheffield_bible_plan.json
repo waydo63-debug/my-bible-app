@@ -1,0 +1,3631 @@
+{
+  "id": "sheffield-chronological",
+  "title": "셰필드 연대기 성경읽기",
+  "description": "46주(주 5일) 동안 연대기 순으로 성경을 완독하는 플랜",
+  "duration": "230일",
+  "totalDays": 230,
+  "days": [
+    {
+      "day": 1,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "창세기 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 6,
+          "endChapter": 11,
+          "label": "창세기 6-11장"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "readings": [
+        {
+          "book": "JOB",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "욥기 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "readings": [
+        {
+          "book": "JOB",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "욥기 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "readings": [
+        {
+          "book": "JOB",
+          "startChapter": 11,
+          "endChapter": 15,
+          "label": "욥기 11-15장"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "readings": [
+        {
+          "book": "JOB",
+          "startChapter": 16,
+          "endChapter": 20,
+          "label": "욥기 16-20장"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "readings": [
+        {
+          "book": "JOB",
+          "startChapter": 21,
+          "endChapter": 25,
+          "label": "욥기 21-25장"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "readings": [
+        {
+          "book": "JOB",
+          "startChapter": 26,
+          "endChapter": 30,
+          "label": "욥기 26-30장"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "readings": [
+        {
+          "book": "JOB",
+          "startChapter": 31,
+          "endChapter": 36,
+          "label": "욥기 31-36장"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "readings": [
+        {
+          "book": "JOB",
+          "startChapter": 37,
+          "endChapter": 42,
+          "label": "욥기 37-42장"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 12,
+          "endChapter": 16,
+          "label": "창세기 12-16장"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 17,
+          "endChapter": 21,
+          "label": "창세기 17-21장"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 22,
+          "endChapter": 26,
+          "label": "창세기 22-26장"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 27,
+          "endChapter": 31,
+          "label": "창세기 27-31장"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 32,
+          "endChapter": 36,
+          "label": "창세기 32-36장"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 37,
+          "endChapter": 41,
+          "label": "창세기 37-41장"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 42,
+          "endChapter": 46,
+          "label": "창세기 42-46장"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "readings": [
+        {
+          "book": "GEN",
+          "startChapter": 47,
+          "endChapter": 50,
+          "label": "창세기 47-50장"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "readings": [
+        {
+          "book": "EXO",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "출애굽기 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "readings": [
+        {
+          "book": "EXO",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "출애굽기 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "readings": [
+        {
+          "book": "EXO",
+          "startChapter": 11,
+          "endChapter": 15,
+          "label": "출애굽기 11-15장"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "readings": [
+        {
+          "book": "EXO",
+          "startChapter": 16,
+          "endChapter": 20,
+          "label": "출애굽기 16-20장"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "readings": [
+        {
+          "book": "EXO",
+          "startChapter": 21,
+          "endChapter": 25,
+          "label": "출애굽기 21-25장"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "readings": [
+        {
+          "book": "EXO",
+          "startChapter": 26,
+          "endChapter": 30,
+          "label": "출애굽기 26-30장"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "readings": [
+        {
+          "book": "EXO",
+          "startChapter": 31,
+          "endChapter": 35,
+          "label": "출애굽기 31-35장"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "readings": [
+        {
+          "book": "EXO",
+          "startChapter": 36,
+          "endChapter": 40,
+          "label": "출애굽기 36-40장"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "readings": [
+        {
+          "book": "LEV",
+          "startChapter": 1,
+          "endChapter": 6,
+          "label": "레위기 1-6장"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "readings": [
+        {
+          "book": "LEV",
+          "startChapter": 7,
+          "endChapter": 11,
+          "label": "레위기 7-11장"
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "readings": [
+        {
+          "book": "LEV",
+          "startChapter": 12,
+          "endChapter": 16,
+          "label": "레위기 12-16장"
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "readings": [
+        {
+          "book": "LEV",
+          "startChapter": 17,
+          "endChapter": 21,
+          "label": "레위기 17-21장"
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "readings": [
+        {
+          "book": "LEV",
+          "startChapter": 22,
+          "endChapter": 27,
+          "label": "레위기 22-27장"
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "readings": [
+        {
+          "book": "NUM",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "민수기 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "readings": [
+        {
+          "book": "NUM",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "민수기 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "readings": [
+        {
+          "book": "NUM",
+          "startChapter": 11,
+          "endChapter": 15,
+          "label": "민수기 11-15장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 90,
+          "endChapter": 90,
+          "label": "시편 90편"
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "readings": [
+        {
+          "book": "NUM",
+          "startChapter": 16,
+          "endChapter": 20,
+          "label": "민수기 16-20장"
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "readings": [
+        {
+          "book": "NUM",
+          "startChapter": 21,
+          "endChapter": 25,
+          "label": "민수기 21-25장"
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "readings": [
+        {
+          "book": "NUM",
+          "startChapter": 26,
+          "endChapter": 30,
+          "label": "민수기 26-30장"
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "readings": [
+        {
+          "book": "NUM",
+          "startChapter": 31,
+          "endChapter": 36,
+          "label": "민수기 31-36장"
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "readings": [
+        {
+          "book": "DEU",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "신명기 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "readings": [
+        {
+          "book": "DEU",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "신명기 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 41,
+      "readings": [
+        {
+          "book": "DEU",
+          "startChapter": 11,
+          "endChapter": 15,
+          "label": "신명기 11-15장"
+        }
+      ]
+    },
+    {
+      "day": 42,
+      "readings": [
+        {
+          "book": "DEU",
+          "startChapter": 16,
+          "endChapter": 20,
+          "label": "신명기 16-20장"
+        }
+      ]
+    },
+    {
+      "day": 43,
+      "readings": [
+        {
+          "book": "DEU",
+          "startChapter": 21,
+          "endChapter": 25,
+          "label": "신명기 21-25장"
+        }
+      ]
+    },
+    {
+      "day": 44,
+      "readings": [
+        {
+          "book": "DEU",
+          "startChapter": 26,
+          "endChapter": 30,
+          "label": "신명기 26-30장"
+        }
+      ]
+    },
+    {
+      "day": 45,
+      "readings": [
+        {
+          "book": "DEU",
+          "startChapter": 31,
+          "endChapter": 34,
+          "label": "신명기 31-34장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 91,
+          "endChapter": 91,
+          "label": "시편 91편"
+        }
+      ]
+    },
+    {
+      "day": 46,
+      "readings": [
+        {
+          "book": "JOS",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "여호수아 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 47,
+      "readings": [
+        {
+          "book": "JOS",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "여호수아 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 48,
+      "readings": [
+        {
+          "book": "JOS",
+          "startChapter": 11,
+          "endChapter": 15,
+          "label": "여호수아 11-15장"
+        }
+      ]
+    },
+    {
+      "day": 49,
+      "readings": [
+        {
+          "book": "JOS",
+          "startChapter": 16,
+          "endChapter": 20,
+          "label": "여호수아 16-20장"
+        }
+      ]
+    },
+    {
+      "day": 50,
+      "readings": [
+        {
+          "book": "JOS",
+          "startChapter": 21,
+          "endChapter": 24,
+          "label": "여호수아 21-24장"
+        }
+      ]
+    },
+    {
+      "day": 51,
+      "readings": [
+        {
+          "book": "JDG",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "사시기 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 52,
+      "readings": [
+        {
+          "book": "JDG",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "사시기 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 53,
+      "readings": [
+        {
+          "book": "JDG",
+          "startChapter": 11,
+          "endChapter": 15,
+          "label": "사시기 11-15장"
+        }
+      ]
+    },
+    {
+      "day": 54,
+      "readings": [
+        {
+          "book": "JDG",
+          "startChapter": 16,
+          "endChapter": 21,
+          "label": "사시기 16-21장"
+        }
+      ]
+    },
+    {
+      "day": 55,
+      "readings": [
+        {
+          "book": "RUT",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "룻기 1-4장"
+        }
+      ]
+    },
+    {
+      "day": 56,
+      "readings": [
+        {
+          "book": "1SA",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "사무엘상 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 57,
+      "readings": [
+        {
+          "book": "1SA",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "사무엘상 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 58,
+      "readings": [
+        {
+          "book": "1SA",
+          "startChapter": 11,
+          "endChapter": 15,
+          "label": "사무엘상 11-15장"
+        }
+      ]
+    },
+    {
+      "day": 59,
+      "readings": [
+        {
+          "book": "1SA",
+          "startChapter": 16,
+          "endChapter": 20,
+          "label": "사무엘상 16-20장"
+        }
+      ]
+    },
+    {
+      "day": 60,
+      "readings": [
+        {
+          "book": "1SA",
+          "startChapter": 21,
+          "endChapter": 24,
+          "label": "사무엘상 21-24장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 11,
+          "endChapter": 11,
+          "label": "시편 11편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 57,
+          "endChapter": 57,
+          "label": "시편 57편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 59,
+          "endChapter": 59,
+          "label": "시편 59편"
+        }
+      ]
+    },
+    {
+      "day": 61,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 7,
+          "endChapter": 7,
+          "label": "시편 7편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 27,
+          "endChapter": 27,
+          "label": "시편 27편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 31,
+          "endChapter": 31,
+          "label": "시편 31편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 34,
+          "endChapter": 34,
+          "label": "시편 34편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 52,
+          "endChapter": 52,
+          "label": "시편 52편"
+        }
+      ]
+    },
+    {
+      "day": 62,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 56,
+          "endChapter": 56,
+          "label": "시편 56편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 120,
+          "endChapter": 120,
+          "label": "시편 120편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 140,
+          "endChapter": 142,
+          "label": "시편 140-142장"
+        }
+      ]
+    },
+    {
+      "day": 63,
+      "readings": [
+        {
+          "book": "1SA",
+          "startChapter": 25,
+          "endChapter": 27,
+          "label": "사무엘상 25-27장"
+        }
+      ]
+    },
+    {
+      "day": 64,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 17,
+          "endChapter": 17,
+          "label": "시편 17편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 35,
+          "endChapter": 35,
+          "label": "시편 35편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 54,
+          "endChapter": 54,
+          "label": "시편 54편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 63,
+          "endChapter": 63,
+          "label": "시편 63편"
+        }
+      ]
+    },
+    {
+      "day": 65,
+      "readings": [
+        {
+          "book": "1SA",
+          "startChapter": 28,
+          "endChapter": 31,
+          "label": "사무엘상 28-31장"
+        }
+      ]
+    },
+    {
+      "day": 66,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 121,
+          "endChapter": 121,
+          "label": "시편 121편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 123,
+          "endChapter": 125,
+          "label": "시편 123-125장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 128,
+          "endChapter": 130,
+          "label": "시편 128-130장"
+        }
+      ]
+    },
+    {
+      "day": 67,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "사무엘하 1-4장"
+        }
+      ]
+    },
+    {
+      "day": 68,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 6,
+          "endChapter": 6,
+          "label": "시편 6편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 8,
+          "endChapter": 10,
+          "label": "시편 8-10장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 14,
+          "endChapter": 14,
+          "label": "시편 14편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 16,
+          "endChapter": 16,
+          "label": "시편 16편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 19,
+          "endChapter": 19,
+          "label": "시편 19편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 21,
+          "endChapter": 21,
+          "label": "시편 21편"
+        }
+      ]
+    },
+    {
+      "day": 69,
+      "readings": [
+        {
+          "book": "1CH",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "역대상 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 70,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 43,
+          "endChapter": 45,
+          "label": "시편 43-45장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 49,
+          "endChapter": 49,
+          "label": "시편 49편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 84,
+          "endChapter": 85,
+          "label": "시편 84-85장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 87,
+          "endChapter": 87,
+          "label": "시편 87편"
+        }
+      ]
+    },
+    {
+      "day": 71,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 73,
+          "endChapter": 73,
+          "label": "시편 73편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 77,
+          "endChapter": 78,
+          "label": "시편 77-78장"
+        },
+        {
+          "book": "1CH",
+          "startChapter": 6,
+          "endChapter": 6,
+          "label": "역대상 6장"
+        }
+      ]
+    },
+    {
+      "day": 72,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 81,
+          "endChapter": 81,
+          "label": "시편 81편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 88,
+          "endChapter": 88,
+          "label": "시편 88편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 92,
+          "endChapter": 93,
+          "label": "시편 92-93장"
+        },
+        {
+          "book": "1CH",
+          "startChapter": 7,
+          "endChapter": 10,
+          "label": "역대상 7-10장"
+        }
+      ]
+    },
+    {
+      "day": 73,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 102,
+          "endChapter": 104,
+          "label": "시편 102-104장"
+        },
+        {
+          "book": "2SA",
+          "startChapter": 5,
+          "endChapter": 5,
+          "label": "사무엘하 5장"
+        },
+        {
+          "book": "1CH",
+          "startChapter": 11,
+          "endChapter": 12,
+          "label": "역대상 11-12장"
+        }
+      ]
+    },
+    {
+      "day": 74,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 133,
+          "endChapter": 133,
+          "label": "시편 133편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 106,
+          "endChapter": 107,
+          "label": "시편 106-107장"
+        }
+      ]
+    },
+    {
+      "day": 75,
+      "readings": [
+        {
+          "book": "1CH",
+          "startChapter": 13,
+          "endChapter": 16,
+          "label": "역대상 13-16장"
+        }
+      ]
+    },
+    {
+      "day": 76,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 1,
+          "endChapter": 2,
+          "label": "시편 1-2장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 15,
+          "endChapter": 15,
+          "label": "시편 15편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 22,
+          "endChapter": 24,
+          "label": "시편 22-24장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 47,
+          "endChapter": 47,
+          "label": "시편 47편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 68,
+          "endChapter": 68,
+          "label": "시편 68편"
+        }
+      ]
+    },
+    {
+      "day": 77,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 89,
+          "endChapter": 89,
+          "label": "시편 89편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 96,
+          "endChapter": 96,
+          "label": "시편 96편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 100,
+          "endChapter": 101,
+          "label": "시편 100-101장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 105,
+          "endChapter": 105,
+          "label": "시편 105편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 132,
+          "endChapter": 132,
+          "label": "시편 132편"
+        }
+      ]
+    },
+    {
+      "day": 78,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 6,
+          "endChapter": 7,
+          "label": "사무엘하 6-7장"
+        },
+        {
+          "book": "1CH",
+          "startChapter": 17,
+          "endChapter": 17,
+          "label": "역대상 17장"
+        }
+      ]
+    },
+    {
+      "day": 79,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 25,
+          "endChapter": 25,
+          "label": "시편 25편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 29,
+          "endChapter": 29,
+          "label": "시편 29편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 33,
+          "endChapter": 33,
+          "label": "시편 33편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 36,
+          "endChapter": 36,
+          "label": "시편 36편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 39,
+          "endChapter": 39,
+          "label": "시편 39편"
+        }
+      ]
+    },
+    {
+      "day": 80,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 8,
+          "endChapter": 9,
+          "label": "사무엘하 8-9장"
+        },
+        {
+          "book": "1CH",
+          "startChapter": 18,
+          "endChapter": 18,
+          "label": "역대상 18장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 50,
+          "endChapter": 50,
+          "label": "시편 50편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 53,
+          "endChapter": 53,
+          "label": "시편 53편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 60,
+          "endChapter": 60,
+          "label": "시편 60편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 75,
+          "endChapter": 75,
+          "label": "시편 75편"
+        }
+      ]
+    },
+    {
+      "day": 81,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 10,
+          "endChapter": 10,
+          "label": "사무엘하 10장"
+        },
+        {
+          "book": "1CH",
+          "startChapter": 19,
+          "endChapter": 19,
+          "label": "역대상 19장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 20,
+          "endChapter": 20,
+          "label": "시편 20편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 65,
+          "endChapter": 67,
+          "label": "시편 65-67장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 69,
+          "endChapter": 70,
+          "label": "시편 69-70장"
+        }
+      ]
+    },
+    {
+      "day": 82,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 11,
+          "endChapter": 12,
+          "label": "사무엘하 11-12장"
+        },
+        {
+          "book": "1CH",
+          "startChapter": 20,
+          "endChapter": 20,
+          "label": "역대상 20장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 32,
+          "endChapter": 32,
+          "label": "시편 32편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 51,
+          "endChapter": 51,
+          "label": "시편 51편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 86,
+          "endChapter": 86,
+          "label": "시편 86편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 122,
+          "endChapter": 122,
+          "label": "시편 122편"
+        }
+      ]
+    },
+    {
+      "day": 83,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 13,
+          "endChapter": 15,
+          "label": "사무엘하 13-15장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 3,
+          "endChapter": 4,
+          "label": "시편 3-4장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 12,
+          "endChapter": 13,
+          "label": "시편 12-13장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 28,
+          "endChapter": 28,
+          "label": "시편 28편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 55,
+          "endChapter": 55,
+          "label": "시편 55편"
+        }
+      ]
+    },
+    {
+      "day": 84,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 16,
+          "endChapter": 18,
+          "label": "사무엘하 16-18장"
+        }
+      ]
+    },
+    {
+      "day": 85,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 26,
+          "endChapter": 26,
+          "label": "시편 26편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 40,
+          "endChapter": 40,
+          "label": "시편 40편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 58,
+          "endChapter": 58,
+          "label": "시편 58편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 61,
+          "endChapter": 62,
+          "label": "시편 61-62장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 64,
+          "endChapter": 64,
+          "label": "시편 64편"
+        }
+      ]
+    },
+    {
+      "day": 86,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 19,
+          "endChapter": 21,
+          "label": "사무엘하 19-21장"
+        }
+      ]
+    },
+    {
+      "day": 87,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 5,
+          "endChapter": 5,
+          "label": "시편 5편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 38,
+          "endChapter": 38,
+          "label": "시편 38편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 41,
+          "endChapter": 42,
+          "label": "시편 41-42장"
+        }
+      ]
+    },
+    {
+      "day": 88,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 22,
+          "endChapter": 23,
+          "label": "사무엘하 22-23장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 18,
+          "endChapter": 18,
+          "label": "시편 18편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 95,
+          "endChapter": 95,
+          "label": "시편 95편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 97,
+          "endChapter": 99,
+          "label": "시편 97-99장"
+        }
+      ]
+    },
+    {
+      "day": 89,
+      "readings": [
+        {
+          "book": "2SA",
+          "startChapter": 24,
+          "endChapter": 24,
+          "label": "사무엘하 24장"
+        },
+        {
+          "book": "1CH",
+          "startChapter": 21,
+          "endChapter": 22,
+          "label": "역대상 21-22장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 30,
+          "endChapter": 30,
+          "label": "시편 30편"
+        }
+      ]
+    },
+    {
+      "day": 90,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 108,
+          "endChapter": 110,
+          "label": "시편 108-110장"
+        },
+        {
+          "book": "1CH",
+          "startChapter": 23,
+          "endChapter": 25,
+          "label": "역대상 23-25장"
+        }
+      ]
+    },
+    {
+      "day": 91,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 131,
+          "endChapter": 131,
+          "label": "시편 131편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 138,
+          "endChapter": 139,
+          "label": "시편 138-139장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 143,
+          "endChapter": 145,
+          "label": "시편 143-145장"
+        }
+      ]
+    },
+    {
+      "day": 92,
+      "readings": [
+        {
+          "book": "1CH",
+          "startChapter": 26,
+          "endChapter": 29,
+          "label": "역대상 26-29장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 127,
+          "endChapter": 127,
+          "label": "시편 127편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 111,
+          "endChapter": 118,
+          "label": "시편 111-118장"
+        }
+      ]
+    },
+    {
+      "day": 93,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 1,
+          "endChapter": 2,
+          "label": "열왕기상 1-2장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 37,
+          "endChapter": 37,
+          "label": "시편 37편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 71,
+          "endChapter": 71,
+          "label": "시편 71편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 94,
+          "endChapter": 94,
+          "label": "시편 94편"
+        }
+      ]
+    },
+    {
+      "day": 94,
+      "readings": [
+        {
+          "book": "PSA",
+          "startChapter": 119,
+          "endChapter": 119,
+          "label": "시편 119편"
+        }
+      ]
+    },
+    {
+      "day": 95,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 3,
+          "endChapter": 4,
+          "label": "열왕기상 3-4장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "역대하 1장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 72,
+          "endChapter": 72,
+          "label": "시편 72편"
+        }
+      ]
+    },
+    {
+      "day": 96,
+      "readings": [
+        {
+          "book": "SNG",
+          "startChapter": 1,
+          "endChapter": 8,
+          "label": "아가서 1-8장"
+        }
+      ]
+    },
+    {
+      "day": 97,
+      "readings": [
+        {
+          "book": "PRO",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "잠언 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 98,
+      "readings": [
+        {
+          "book": "PRO",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "잠언 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 99,
+      "readings": [
+        {
+          "book": "PRO",
+          "startChapter": 11,
+          "endChapter": 15,
+          "label": "잠언 11-15장"
+        }
+      ]
+    },
+    {
+      "day": 100,
+      "readings": [
+        {
+          "book": "PRO",
+          "startChapter": 16,
+          "endChapter": 20,
+          "label": "잠언 16-20장"
+        }
+      ]
+    },
+    {
+      "day": 101,
+      "readings": [
+        {
+          "book": "PRO",
+          "startChapter": 21,
+          "endChapter": 24,
+          "label": "잠언 21-24장"
+        }
+      ]
+    },
+    {
+      "day": 102,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 5,
+          "endChapter": 6,
+          "label": "열왕기상 5-6장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 2,
+          "endChapter": 3,
+          "label": "역대하 2-3장"
+        }
+      ]
+    },
+    {
+      "day": 103,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 7,
+          "endChapter": 8,
+          "label": "열왕기상 7-8장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 4,
+          "endChapter": 5,
+          "label": "역대하 4-5장"
+        }
+      ]
+    },
+    {
+      "day": 104,
+      "readings": [
+        {
+          "book": "2CH",
+          "startChapter": 6,
+          "endChapter": 7,
+          "label": "역대하 6-7장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 136,
+          "endChapter": 136,
+          "label": "시편 136편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 134,
+          "endChapter": 134,
+          "label": "시편 134편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 146,
+          "endChapter": 150,
+          "label": "시편 146-150장"
+        }
+      ]
+    },
+    {
+      "day": 105,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 9,
+          "endChapter": 9,
+          "label": "열왕기상 9장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 8,
+          "endChapter": 8,
+          "label": "역대하 8장"
+        },
+        {
+          "book": "PRO",
+          "startChapter": 25,
+          "endChapter": 26,
+          "label": "잠언 25-26장"
+        }
+      ]
+    },
+    {
+      "day": 106,
+      "readings": [
+        {
+          "book": "PRO",
+          "startChapter": 27,
+          "endChapter": 29,
+          "label": "잠언 27-29장"
+        },
+        {
+          "book": "ECC",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "전도서 1-4장"
+        }
+      ]
+    },
+    {
+      "day": 107,
+      "readings": [
+        {
+          "book": "ECC",
+          "startChapter": 5,
+          "endChapter": 12,
+          "label": "전도서 5-12장"
+        }
+      ]
+    },
+    {
+      "day": 108,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 10,
+          "endChapter": 11,
+          "label": "열왕기상 10-11장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 9,
+          "endChapter": 9,
+          "label": "역대하 9장"
+        },
+        {
+          "book": "PRO",
+          "startChapter": 30,
+          "endChapter": 31,
+          "label": "잠언 30-31장"
+        }
+      ]
+    },
+    {
+      "day": 109,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 12,
+          "endChapter": 14,
+          "label": "열왕기상 12-14장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 10,
+          "endChapter": 12,
+          "label": "역대하 10-12장"
+        }
+      ]
+    },
+    {
+      "day": 110,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 15,
+          "endChapter": 16,
+          "label": "열왕기상 15-16장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 13,
+          "endChapter": 17,
+          "label": "역대하 13-17장"
+        }
+      ]
+    },
+    {
+      "day": 111,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 17,
+          "endChapter": 21,
+          "label": "열왕기상 17-21장"
+        }
+      ]
+    },
+    {
+      "day": 112,
+      "readings": [
+        {
+          "book": "1KI",
+          "startChapter": 22,
+          "endChapter": 22,
+          "label": "열왕기상 22장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 18,
+          "endChapter": 23,
+          "label": "역대하 18-23장"
+        }
+      ]
+    },
+    {
+      "day": 113,
+      "readings": [
+        {
+          "book": "OBA",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "오바댜"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 82,
+          "endChapter": 83,
+          "label": "시편 82-83장"
+        },
+        {
+          "book": "2KI",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "열왕기하 1-3장"
+        }
+      ]
+    },
+    {
+      "day": 114,
+      "readings": [
+        {
+          "book": "2KI",
+          "startChapter": 4,
+          "endChapter": 9,
+          "label": "열왕기하 4-9장"
+        }
+      ]
+    },
+    {
+      "day": 115,
+      "readings": [
+        {
+          "book": "2KI",
+          "startChapter": 10,
+          "endChapter": 13,
+          "label": "열왕기하 10-13장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 24,
+          "endChapter": 24,
+          "label": "역대하 24장"
+        }
+      ]
+    },
+    {
+      "day": 116,
+      "readings": [
+        {
+          "book": "2KI",
+          "startChapter": 14,
+          "endChapter": 14,
+          "label": "열왕기하 14장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 25,
+          "endChapter": 25,
+          "label": "역대하 25장"
+        },
+        {
+          "book": "JON",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "요나 1-4장"
+        }
+      ]
+    },
+    {
+      "day": 117,
+      "readings": [
+        {
+          "book": "2KI",
+          "startChapter": 15,
+          "endChapter": 15,
+          "label": "열왕기하 15장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 26,
+          "endChapter": 26,
+          "label": "역대하 26장"
+        },
+        {
+          "book": "ISA",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "이사야 1-4장"
+        }
+      ]
+    },
+    {
+      "day": 118,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 5,
+          "endChapter": 8,
+          "label": "이사야 5-8장"
+        },
+        {
+          "book": "AMO",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "아모스 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 119,
+      "readings": [
+        {
+          "book": "AMO",
+          "startChapter": 6,
+          "endChapter": 9,
+          "label": "아모스 6-9장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 27,
+          "endChapter": 27,
+          "label": "역대하 27장"
+        }
+      ]
+    },
+    {
+      "day": 120,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 9,
+          "endChapter": 12,
+          "label": "이사야 9-12장"
+        }
+      ]
+    },
+    {
+      "day": 121,
+      "readings": [
+        {
+          "book": "MIC",
+          "startChapter": 1,
+          "endChapter": 7,
+          "label": "미가 1-7장"
+        }
+      ]
+    },
+    {
+      "day": 122,
+      "readings": [
+        {
+          "book": "2CH",
+          "startChapter": 28,
+          "endChapter": 28,
+          "label": "역대하 28장"
+        },
+        {
+          "book": "2KI",
+          "startChapter": 16,
+          "endChapter": 17,
+          "label": "열왕기하 16-17장"
+        }
+      ]
+    },
+    {
+      "day": 123,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 13,
+          "endChapter": 17,
+          "label": "이사야 13-17장"
+        }
+      ]
+    },
+    {
+      "day": 124,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 18,
+          "endChapter": 22,
+          "label": "이사야 18-22장"
+        }
+      ]
+    },
+    {
+      "day": 125,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 23,
+          "endChapter": 27,
+          "label": "이사야 23-27장"
+        }
+      ]
+    },
+    {
+      "day": 126,
+      "readings": [
+        {
+          "book": "2KI",
+          "startChapter": 18,
+          "endChapter": 18,
+          "label": "열왕기하 18장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 29,
+          "endChapter": 31,
+          "label": "역대하 29-31장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 48,
+          "endChapter": 48,
+          "label": "시편 48편"
+        }
+      ]
+    },
+    {
+      "day": 127,
+      "readings": [
+        {
+          "book": "HOS",
+          "startChapter": 1,
+          "endChapter": 7,
+          "label": "호세아 1-7장"
+        }
+      ]
+    },
+    {
+      "day": 128,
+      "readings": [
+        {
+          "book": "HOS",
+          "startChapter": 8,
+          "endChapter": 14,
+          "label": "호세아 8-14장"
+        }
+      ]
+    },
+    {
+      "day": 129,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 28,
+          "endChapter": 33,
+          "label": "이사야 28-33장"
+        }
+      ]
+    },
+    {
+      "day": 130,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 34,
+          "endChapter": 39,
+          "label": "이사야 34-39장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 76,
+          "endChapter": 76,
+          "label": "시편 76편"
+        }
+      ]
+    },
+    {
+      "day": 131,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 40,
+          "endChapter": 45,
+          "label": "이사야 40-45장"
+        }
+      ]
+    },
+    {
+      "day": 132,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 46,
+          "endChapter": 48,
+          "label": "이사야 46-48장"
+        },
+        {
+          "book": "2KI",
+          "startChapter": 19,
+          "endChapter": 19,
+          "label": "열왕기하 19장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 46,
+          "endChapter": 46,
+          "label": "시편 46편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 80,
+          "endChapter": 80,
+          "label": "시편 80편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 135,
+          "endChapter": 135,
+          "label": "시편 135편"
+        }
+      ]
+    },
+    {
+      "day": 133,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 49,
+          "endChapter": 53,
+          "label": "이사야 49-53장"
+        }
+      ]
+    },
+    {
+      "day": 134,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 54,
+          "endChapter": 58,
+          "label": "이사야 54-58장"
+        }
+      ]
+    },
+    {
+      "day": 135,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 59,
+          "endChapter": 63,
+          "label": "이사야 59-63장"
+        }
+      ]
+    },
+    {
+      "day": 136,
+      "readings": [
+        {
+          "book": "ISA",
+          "startChapter": 64,
+          "endChapter": 66,
+          "label": "이사야 64-66장"
+        },
+        {
+          "book": "2KI",
+          "startChapter": 20,
+          "endChapter": 21,
+          "label": "열왕기하 20-21장"
+        }
+      ]
+    },
+    {
+      "day": 137,
+      "readings": [
+        {
+          "book": "2CH",
+          "startChapter": 32,
+          "endChapter": 33,
+          "label": "역대하 32-33장"
+        },
+        {
+          "book": "NAM",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "나훔 1-3장"
+        }
+      ]
+    },
+    {
+      "day": 138,
+      "readings": [
+        {
+          "book": "2KI",
+          "startChapter": 22,
+          "endChapter": 23,
+          "label": "열왕기하 22-23장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 34,
+          "endChapter": 35,
+          "label": "역대하 34-35장"
+        }
+      ]
+    },
+    {
+      "day": 139,
+      "readings": [
+        {
+          "book": "ZEP",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "스바냐 1-3장"
+        },
+        {
+          "book": "JER",
+          "startChapter": 1,
+          "endChapter": 2,
+          "label": "예레미야 1-2장"
+        }
+      ]
+    },
+    {
+      "day": 140,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 3,
+          "endChapter": 7,
+          "label": "예레미야 3-7장"
+        }
+      ]
+    },
+    {
+      "day": 141,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 8,
+          "endChapter": 12,
+          "label": "예레미야 8-12장"
+        }
+      ]
+    },
+    {
+      "day": 142,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 13,
+          "endChapter": 17,
+          "label": "예레미야 13-17장"
+        }
+      ]
+    },
+    {
+      "day": 143,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 18,
+          "endChapter": 22,
+          "label": "예레미야 18-22장"
+        }
+      ]
+    },
+    {
+      "day": 144,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 23,
+          "endChapter": 27,
+          "label": "예레미야 23-27장"
+        }
+      ]
+    },
+    {
+      "day": 145,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 28,
+          "endChapter": 32,
+          "label": "예레미야 28-32장"
+        }
+      ]
+    },
+    {
+      "day": 146,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 33,
+          "endChapter": 37,
+          "label": "예레미야 33-37장"
+        }
+      ]
+    },
+    {
+      "day": 147,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 38,
+          "endChapter": 40,
+          "label": "예레미야 38-40장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 74,
+          "endChapter": 74,
+          "label": "시편 74편"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 79,
+          "endChapter": 79,
+          "label": "시편 79편"
+        }
+      ]
+    },
+    {
+      "day": 148,
+      "readings": [
+        {
+          "book": "2KI",
+          "startChapter": 24,
+          "endChapter": 25,
+          "label": "열왕기하 24-25장"
+        },
+        {
+          "book": "2CH",
+          "startChapter": 36,
+          "endChapter": 36,
+          "label": "역대하 36장"
+        },
+        {
+          "book": "HAB",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "하박국 1-3장"
+        }
+      ]
+    },
+    {
+      "day": 149,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 41,
+          "endChapter": 45,
+          "label": "예레미야 41-45장"
+        }
+      ]
+    },
+    {
+      "day": 150,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 46,
+          "endChapter": 50,
+          "label": "예레미야 46-50장"
+        }
+      ]
+    },
+    {
+      "day": 151,
+      "readings": [
+        {
+          "book": "JER",
+          "startChapter": 51,
+          "endChapter": 52,
+          "label": "예레미야 51-52장"
+        },
+        {
+          "book": "LAM",
+          "startChapter": 1,
+          "endChapter": 2,
+          "label": "예레미야 애가 1-2장"
+        }
+      ]
+    },
+    {
+      "day": 152,
+      "readings": [
+        {
+          "book": "LAM",
+          "startChapter": 3,
+          "endChapter": 5,
+          "label": "예레미야 애가 3-5장"
+        },
+        {
+          "book": "EZE",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "에스겔 1-4장"
+        }
+      ]
+    },
+    {
+      "day": 153,
+      "readings": [
+        {
+          "book": "EZE",
+          "startChapter": 5,
+          "endChapter": 10,
+          "label": "에스겔 5-10장"
+        }
+      ]
+    },
+    {
+      "day": 154,
+      "readings": [
+        {
+          "book": "EZE",
+          "startChapter": 11,
+          "endChapter": 15,
+          "label": "에스겔 11-15장"
+        }
+      ]
+    },
+    {
+      "day": 155,
+      "readings": [
+        {
+          "book": "EZE",
+          "startChapter": 16,
+          "endChapter": 20,
+          "label": "에스겔 16-20장"
+        }
+      ]
+    },
+    {
+      "day": 156,
+      "readings": [
+        {
+          "book": "EZE",
+          "startChapter": 21,
+          "endChapter": 25,
+          "label": "에스겔 21-25장"
+        }
+      ]
+    },
+    {
+      "day": 157,
+      "readings": [
+        {
+          "book": "EZE",
+          "startChapter": 26,
+          "endChapter": 30,
+          "label": "에스겔 26-30장"
+        }
+      ]
+    },
+    {
+      "day": 158,
+      "readings": [
+        {
+          "book": "EZE",
+          "startChapter": 31,
+          "endChapter": 35,
+          "label": "에스겔 31-35장"
+        }
+      ]
+    },
+    {
+      "day": 159,
+      "readings": [
+        {
+          "book": "EZE",
+          "startChapter": 36,
+          "endChapter": 40,
+          "label": "에스겔 36-40장"
+        }
+      ]
+    },
+    {
+      "day": 160,
+      "readings": [
+        {
+          "book": "EZE",
+          "startChapter": 41,
+          "endChapter": 45,
+          "label": "에스겔 41-45장"
+        }
+      ]
+    },
+    {
+      "day": 161,
+      "readings": [
+        {
+          "book": "EZE",
+          "startChapter": 46,
+          "endChapter": 48,
+          "label": "에스겔 46-48장"
+        },
+        {
+          "book": "JOL",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "요엘 1-3장"
+        }
+      ]
+    },
+    {
+      "day": 162,
+      "readings": [
+        {
+          "book": "DAN",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "다니엘 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 163,
+      "readings": [
+        {
+          "book": "DAN",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "다니엘 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 164,
+      "readings": [
+        {
+          "book": "DAN",
+          "startChapter": 11,
+          "endChapter": 12,
+          "label": "다니엘 11-12장"
+        },
+        {
+          "book": "EZR",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "에스라 1-3장"
+        }
+      ]
+    },
+    {
+      "day": 165,
+      "readings": [
+        {
+          "book": "EZR",
+          "startChapter": 4,
+          "endChapter": 6,
+          "label": "에스라 4-6장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 137,
+          "endChapter": 137,
+          "label": "시편 137편"
+        },
+        {
+          "book": "HAG",
+          "startChapter": 1,
+          "endChapter": 2,
+          "label": "학개 1-2장"
+        }
+      ]
+    },
+    {
+      "day": 166,
+      "readings": [
+        {
+          "book": "ZEC",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "스가랴 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 167,
+      "readings": [
+        {
+          "book": "ZEC",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "스가랴 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 168,
+      "readings": [
+        {
+          "book": "ZEC",
+          "startChapter": 11,
+          "endChapter": 14,
+          "label": "스가랴 11-14장"
+        }
+      ]
+    },
+    {
+      "day": 169,
+      "readings": [
+        {
+          "book": "EST",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "에스더 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 170,
+      "readings": [
+        {
+          "book": "EST",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "에스더 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 171,
+      "readings": [
+        {
+          "book": "EZR",
+          "startChapter": 7,
+          "endChapter": 10,
+          "label": "에스라 7-10장"
+        }
+      ]
+    },
+    {
+      "day": 172,
+      "readings": [
+        {
+          "book": "NEH",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "느헤미야 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 173,
+      "readings": [
+        {
+          "book": "NEH",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "느헤미야 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 174,
+      "readings": [
+        {
+          "book": "NEH",
+          "startChapter": 11,
+          "endChapter": 13,
+          "label": "느헤미야 11-13장"
+        },
+        {
+          "book": "PSA",
+          "startChapter": 126,
+          "endChapter": 126,
+          "label": "시편 126편"
+        }
+      ]
+    },
+    {
+      "day": 175,
+      "readings": [
+        {
+          "book": "MAL",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "말라기 1-4장"
+        }
+      ]
+    },
+    {
+      "day": 176,
+      "readings": [
+        {
+          "book": "LUK",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "누가복음 1장"
+        },
+        {
+          "book": "JHN",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "요한복음 1장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "마태복음 1장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 2,
+          "endChapter": 2,
+          "label": "누가복음 2장"
+        }
+      ]
+    },
+    {
+      "day": 177,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 2,
+          "endChapter": 2,
+          "label": "마태복음 2장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 3,
+          "endChapter": 3,
+          "label": "마태복음 3장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "마가복음 1장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 3,
+          "endChapter": 3,
+          "label": "누가복음 3장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 4,
+          "endChapter": 4,
+          "label": "마태복음 4장"
+        }
+      ]
+    },
+    {
+      "day": 178,
+      "readings": [
+        {
+          "book": "LUK",
+          "startChapter": 4,
+          "endChapter": 5,
+          "label": "누가복음 4-5장"
+        },
+        {
+          "book": "JHN",
+          "startChapter": 2,
+          "endChapter": 4,
+          "label": "요한복음 2-4장"
+        }
+      ]
+    },
+    {
+      "day": 179,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 8,
+          "endChapter": 8,
+          "label": "마태복음 8장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 2,
+          "endChapter": 2,
+          "label": "마가복음 2장"
+        },
+        {
+          "book": "JHN",
+          "startChapter": 5,
+          "endChapter": 5,
+          "label": "요한복음 5장"
+        }
+      ]
+    },
+    {
+      "day": 180,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 12,
+          "endChapter": 12,
+          "label": "마태복음 12장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 3,
+          "endChapter": 3,
+          "label": "마가복음 3장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 6,
+          "endChapter": 6,
+          "label": "누가복음 6장"
+        }
+      ]
+    },
+    {
+      "day": 181,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 5,
+          "endChapter": 7,
+          "label": "마태복음 5-7장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 9,
+          "endChapter": 9,
+          "label": "마태복음 9장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 7,
+          "endChapter": 7,
+          "label": "누가복음 7장"
+        }
+      ]
+    },
+    {
+      "day": 182,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 11,
+          "endChapter": 11,
+          "label": "마태복음 11장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 11,
+          "endChapter": 11,
+          "label": "누가복음 11장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 13,
+          "endChapter": 13,
+          "label": "마태복음 13장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 8,
+          "endChapter": 8,
+          "label": "누가복음 8장"
+        }
+      ]
+    },
+    {
+      "day": 183,
+      "readings": [
+        {
+          "book": "MRK",
+          "startChapter": 4,
+          "endChapter": 5,
+          "label": "마가복음 4-5장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 10,
+          "endChapter": 10,
+          "label": "마태복음 10장"
+        }
+      ]
+    },
+    {
+      "day": 184,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 14,
+          "endChapter": 14,
+          "label": "마태복음 14장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 6,
+          "endChapter": 6,
+          "label": "마가복음 6장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 9,
+          "endChapter": 9,
+          "label": "누가복음 9장"
+        },
+        {
+          "book": "JHN",
+          "startChapter": 6,
+          "endChapter": 6,
+          "label": "요한복음 6장"
+        }
+      ]
+    },
+    {
+      "day": 185,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 15,
+          "endChapter": 15,
+          "label": "마태복음 15장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 7,
+          "endChapter": 7,
+          "label": "마가복음 7장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 16,
+          "endChapter": 16,
+          "label": "마태복음 16장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 8,
+          "endChapter": 8,
+          "label": "마가복음 8장"
+        }
+      ]
+    },
+    {
+      "day": 186,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 17,
+          "endChapter": 17,
+          "label": "마태복음 17장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 9,
+          "endChapter": 9,
+          "label": "마가복음 9장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 18,
+          "endChapter": 18,
+          "label": "마태복음 18장"
+        },
+        {
+          "book": "JHN",
+          "startChapter": 7,
+          "endChapter": 8,
+          "label": "요한복음 7-8장"
+        }
+      ]
+    },
+    {
+      "day": 187,
+      "readings": [
+        {
+          "book": "JHN",
+          "startChapter": 9,
+          "endChapter": 10,
+          "label": "요한복음 9-10장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 10,
+          "endChapter": 10,
+          "label": "누가복음 10장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 12,
+          "endChapter": 13,
+          "label": "누가복음 12-13장"
+        }
+      ]
+    },
+    {
+      "day": 188,
+      "readings": [
+        {
+          "book": "LUK",
+          "startChapter": 14,
+          "endChapter": 17,
+          "label": "누가복음 14-17장"
+        }
+      ]
+    },
+    {
+      "day": 189,
+      "readings": [
+        {
+          "book": "JHN",
+          "startChapter": 11,
+          "endChapter": 11,
+          "label": "요한복음 11장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 18,
+          "endChapter": 18,
+          "label": "누가복음 18장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 19,
+          "endChapter": 19,
+          "label": "마태복음 19장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 10,
+          "endChapter": 10,
+          "label": "마가복음 10장"
+        }
+      ]
+    },
+    {
+      "day": 190,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 20,
+          "endChapter": 21,
+          "label": "마태복음 20-21장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 19,
+          "endChapter": 19,
+          "label": "누가복음 19장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 11,
+          "endChapter": 11,
+          "label": "마가복음 11장"
+        },
+        {
+          "book": "JHN",
+          "startChapter": 12,
+          "endChapter": 13,
+          "label": "요한복음 12-13장"
+        }
+      ]
+    },
+    {
+      "day": 191,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 22,
+          "endChapter": 22,
+          "label": "마태복음 22장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 12,
+          "endChapter": 12,
+          "label": "마가복음 12장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 23,
+          "endChapter": 23,
+          "label": "마태복음 23장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 20,
+          "endChapter": 21,
+          "label": "누가복음 20-21장"
+        }
+      ]
+    },
+    {
+      "day": 192,
+      "readings": [
+        {
+          "book": "MRK",
+          "startChapter": 13,
+          "endChapter": 14,
+          "label": "마가복음 13-14장"
+        },
+        {
+          "book": "MAT",
+          "startChapter": 24,
+          "endChapter": 26,
+          "label": "마태복음 24-26장"
+        }
+      ]
+    },
+    {
+      "day": 193,
+      "readings": [
+        {
+          "book": "LUK",
+          "startChapter": 22,
+          "endChapter": 22,
+          "label": "누가복음 22장"
+        },
+        {
+          "book": "JHN",
+          "startChapter": 14,
+          "endChapter": 17,
+          "label": "요한복음 14-17장"
+        }
+      ]
+    },
+    {
+      "day": 194,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 27,
+          "endChapter": 27,
+          "label": "마태복음 27장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 15,
+          "endChapter": 15,
+          "label": "마가복음 15장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 23,
+          "endChapter": 23,
+          "label": "누가복음 23장"
+        },
+        {
+          "book": "JHN",
+          "startChapter": 18,
+          "endChapter": 19,
+          "label": "요한복음 18-19장"
+        }
+      ]
+    },
+    {
+      "day": 195,
+      "readings": [
+        {
+          "book": "MAT",
+          "startChapter": 28,
+          "endChapter": 28,
+          "label": "마태복음 28장"
+        },
+        {
+          "book": "MRK",
+          "startChapter": 16,
+          "endChapter": 16,
+          "label": "마가복음 16장"
+        },
+        {
+          "book": "LUK",
+          "startChapter": 24,
+          "endChapter": 24,
+          "label": "누가복음 24장"
+        },
+        {
+          "book": "JHN",
+          "startChapter": 20,
+          "endChapter": 21,
+          "label": "요한복음 20-21장"
+        }
+      ]
+    },
+    {
+      "day": 196,
+      "readings": [
+        {
+          "book": "ACT",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "사도행전 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 197,
+      "readings": [
+        {
+          "book": "ACT",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "사도행전 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 198,
+      "readings": [
+        {
+          "book": "ACT",
+          "startChapter": 11,
+          "endChapter": 14,
+          "label": "사도행전 11-14장"
+        }
+      ]
+    },
+    {
+      "day": 199,
+      "readings": [
+        {
+          "book": "JAM",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "야고보서 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 200,
+      "readings": [
+        {
+          "book": "ACT",
+          "startChapter": 15,
+          "endChapter": 16,
+          "label": "사도행전 15-16장"
+        },
+        {
+          "book": "GAL",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "갈라디아서 1-3장"
+        }
+      ]
+    },
+    {
+      "day": 201,
+      "readings": [
+        {
+          "book": "GAL",
+          "startChapter": 4,
+          "endChapter": 6,
+          "label": "갈라디아서 4-6장"
+        },
+        {
+          "book": "ACT",
+          "startChapter": 17,
+          "endChapter": 17,
+          "label": "사도행전 17장"
+        }
+      ]
+    },
+    {
+      "day": 202,
+      "readings": [
+        {
+          "book": "1TH",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "데살로니가전 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 203,
+      "readings": [
+        {
+          "book": "2TH",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "데살로니가후서 1-3장"
+        },
+        {
+          "book": "ACT",
+          "startChapter": 18,
+          "endChapter": 19,
+          "label": "사도행전 18-19장"
+        }
+      ]
+    },
+    {
+      "day": 204,
+      "readings": [
+        {
+          "book": "1CO",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "고린도전서 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 205,
+      "readings": [
+        {
+          "book": "1CO",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "고린도전서 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 206,
+      "readings": [
+        {
+          "book": "1CO",
+          "startChapter": 11,
+          "endChapter": 16,
+          "label": "고린도전서 11-16장"
+        }
+      ]
+    },
+    {
+      "day": 207,
+      "readings": [
+        {
+          "book": "2CO",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "고린도후서 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 208,
+      "readings": [
+        {
+          "book": "2CO",
+          "startChapter": 6,
+          "endChapter": 10,
+          "label": "고린도후서 6-10장"
+        }
+      ]
+    },
+    {
+      "day": 209,
+      "readings": [
+        {
+          "book": "2CO",
+          "startChapter": 11,
+          "endChapter": 13,
+          "label": "고린도후서 11-13장"
+        },
+        {
+          "book": "ROM",
+          "startChapter": 1,
+          "endChapter": 2,
+          "label": "로마서 1-2장"
+        }
+      ]
+    },
+    {
+      "day": 210,
+      "readings": [
+        {
+          "book": "ROM",
+          "startChapter": 3,
+          "endChapter": 10,
+          "label": "로마서 3-10장"
+        }
+      ]
+    },
+    {
+      "day": 211,
+      "readings": [
+        {
+          "book": "ROM",
+          "startChapter": 11,
+          "endChapter": 16,
+          "label": "로마서 11-16장"
+        }
+      ]
+    },
+    {
+      "day": 212,
+      "readings": [
+        {
+          "book": "ACT",
+          "startChapter": 20,
+          "endChapter": 24,
+          "label": "사도행전 20-24장"
+        }
+      ]
+    },
+    {
+      "day": 213,
+      "readings": [
+        {
+          "book": "ACT",
+          "startChapter": 25,
+          "endChapter": 28,
+          "label": "사도행전 25-28장"
+        }
+      ]
+    },
+    {
+      "day": 214,
+      "readings": [
+        {
+          "book": "COL",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "골로새서 1-4장"
+        },
+        {
+          "book": "PHM",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "빌레몬서"
+        }
+      ]
+    },
+    {
+      "day": 215,
+      "readings": [
+        {
+          "book": "EPH",
+          "startChapter": 1,
+          "endChapter": 6,
+          "label": "에베소서 1-6장"
+        }
+      ]
+    },
+    {
+      "day": 216,
+      "readings": [
+        {
+          "book": "PHP",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "빌립보서 1-4장"
+        }
+      ]
+    },
+    {
+      "day": 217,
+      "readings": [
+        {
+          "book": "1TI",
+          "startChapter": 1,
+          "endChapter": 6,
+          "label": "디모데전서 1-6장"
+        }
+      ]
+    },
+    {
+      "day": 218,
+      "readings": [
+        {
+          "book": "TIT",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "디도서 1-3장"
+        }
+      ]
+    },
+    {
+      "day": 219,
+      "readings": [
+        {
+          "book": "1PE",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "베드로전서 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 220,
+      "readings": [
+        {
+          "book": "HEB",
+          "startChapter": 1,
+          "endChapter": 6,
+          "label": "히브리서 1-6장"
+        }
+      ]
+    },
+    {
+      "day": 221,
+      "readings": [
+        {
+          "book": "HEB",
+          "startChapter": 7,
+          "endChapter": 10,
+          "label": "히브리서 7-10장"
+        }
+      ]
+    },
+    {
+      "day": 222,
+      "readings": [
+        {
+          "book": "HEB",
+          "startChapter": 11,
+          "endChapter": 13,
+          "label": "히브리서 11-13장"
+        }
+      ]
+    },
+    {
+      "day": 223,
+      "readings": [
+        {
+          "book": "2TI",
+          "startChapter": 1,
+          "endChapter": 4,
+          "label": "디모데후서 1-4장"
+        }
+      ]
+    },
+    {
+      "day": 224,
+      "readings": [
+        {
+          "book": "2PE",
+          "startChapter": 1,
+          "endChapter": 3,
+          "label": "베드로후서 1-3장"
+        },
+        {
+          "book": "JUD",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "유다서"
+        }
+      ]
+    },
+    {
+      "day": 225,
+      "readings": [
+        {
+          "book": "1JN",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "요한일서 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 226,
+      "readings": [
+        {
+          "book": "2JN",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "요한이서"
+        },
+        {
+          "book": "3JN",
+          "startChapter": 1,
+          "endChapter": 1,
+          "label": "요한삼서"
+        }
+      ]
+    },
+    {
+      "day": 227,
+      "readings": [
+        {
+          "book": "REV",
+          "startChapter": 1,
+          "endChapter": 5,
+          "label": "요한계시록 1-5장"
+        }
+      ]
+    },
+    {
+      "day": 228,
+      "readings": [
+        {
+          "book": "REV",
+          "startChapter": 6,
+          "endChapter": 11,
+          "label": "요한계시록 6-11장"
+        }
+      ]
+    },
+    {
+      "day": 229,
+      "readings": [
+        {
+          "book": "REV",
+          "startChapter": 12,
+          "endChapter": 18,
+          "label": "요한계시록 12-18장"
+        }
+      ]
+    },
+    {
+      "day": 230,
+      "readings": [
+        {
+          "book": "REV",
+          "startChapter": 19,
+          "endChapter": 22,
+          "label": "요한계시록 19-22장"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "version": "niv",
+  "versionName": "NIV",
+  "totalBooks": 6,
+  "totalVerses": 3825,
+  "oldTestament": [
+    {
+      "abbr": "DEU",
+      "book": "신명기",
+      "bookEn": "Deuteronomy",
+      "bookKey": "신",
+      "testament": "old",
+      "totalChapters": 34,
+      "totalVerses": 959,
+      "file": "DEU.json"
+    },
+    {
+      "abbr": "JOS",
+      "book": "여호수아",
+      "bookEn": "Joshua",
+      "bookKey": "수",
+      "testament": "old",
+      "totalChapters": 24,
+      "totalVerses": 658,
+      "file": "JOS.json"
+    },
+    {
+      "abbr": "JDG",
+      "book": "사사기",
+      "bookEn": "Judges",
+      "bookKey": "삿",
+      "testament": "old",
+      "totalChapters": 21,
+      "totalVerses": 618,
+      "file": "JDG.json"
+    },
+    {
+      "abbr": "RUT",
+      "book": "룻기",
+      "bookEn": "Ruth",
+      "bookKey": "룻",
+      "testament": "old",
+      "totalChapters": 4,
+      "totalVerses": 85,
+      "file": "RUT.json"
+    },
+    {
+      "abbr": "1SA",
+      "book": "사무엘상",
+      "bookEn": "1 Samuel",
+      "bookKey": "삼상",
+      "testament": "old",
+      "totalChapters": 31,
+      "totalVerses": 810,
+      "file": "1SA.json"
+    },
+    {
+      "abbr": "2SA",
+      "book": "사무엘하",
+      "bookEn": "2 Samuel",
+      "bookKey": "삼하",
+      "testament": "old",
+      "totalChapters": 24,
+      "totalVerses": 695,
+      "file": "2SA.json"
+    }
+  ],
+  "newTestament": [],
+  "books": [
+    {
+      "abbr": "DEU",
+      "book": "신명기",
+      "bookEn": "Deuteronomy",
+      "bookKey": "신",
+      "testament": "old",
+      "totalChapters": 34,
+      "totalVerses": 959,
+      "file": "DEU.json"
+    },
+    {
+      "abbr": "JOS",
+      "book": "여호수아",
+      "bookEn": "Joshua",
+      "bookKey": "수",
+      "testament": "old",
+      "totalChapters": 24,
+      "totalVerses": 658,
+      "file": "JOS.json"
+    },
+    {
+      "abbr": "JDG",
+      "book": "사사기",
+      "bookEn": "Judges",
+      "bookKey": "삿",
+      "testament": "old",
+      "totalChapters": 21,
+      "totalVerses": 618,
+      "file": "JDG.json"
+    },
+    {
+      "abbr": "RUT",
+      "book": "룻기",
+      "bookEn": "Ruth",
+      "bookKey": "룻",
+      "testament": "old",
+      "totalChapters": 4,
+      "totalVerses": 85,
+      "file": "RUT.json"
+    },
+    {
+      "abbr": "1SA",
+      "book": "사무엘상",
+      "bookEn": "1 Samuel",
+      "bookKey": "삼상",
+      "testament": "old",
+      "totalChapters": 31,
+      "totalVerses": 810,
+      "file": "1SA.json"
+    },
+    {
+      "abbr": "2SA",
+      "book": "사무엘하",
+      "bookEn": "2 Samuel",
+      "bookKey": "삼하",
+      "testament": "old",
+      "totalChapters": 24,
+      "totalVerses": 695,
+      "file": "2SA.json"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "version": "krv",
+  "versionName": "개역개정",
+  "totalBooks": 7,
+  "totalVerses": 4152,
+  "oldTestament": [
+    {
+      "abbr": "1KI",
+      "book": "열왕기상",
+      "bookEn": "1 Kings",
+      "bookKey": "왕상",
+      "testament": "old",
+      "totalChapters": 22,
+      "totalVerses": 816,
+      "file": "1KI.json"
+    },
+    {
+      "abbr": "2KI",
+      "book": "열왕기하",
+      "bookEn": "2 Kings",
+      "bookKey": "왕하",
+      "testament": "old",
+      "totalChapters": 25,
+      "totalVerses": 719,
+      "file": "2KI.json"
+    },
+    {
+      "abbr": "1CH",
+      "book": "역대상",
+      "bookEn": "1 Chronicles",
+      "bookKey": "대상",
+      "testament": "old",
+      "totalChapters": 29,
+      "totalVerses": 942,
+      "file": "1CH.json"
+    },
+    {
+      "abbr": "2CH",
+      "book": "역대하",
+      "bookEn": "2 Chronicles",
+      "bookKey": "대하",
+      "testament": "old",
+      "totalChapters": 36,
+      "totalVerses": 822,
+      "file": "2CH.json"
+    },
+    {
+      "abbr": "EZR",
+      "book": "에스라",
+      "bookEn": "Ezra",
+      "bookKey": "스",
+      "testament": "old",
+      "totalChapters": 10,
+      "totalVerses": 280,
+      "file": "EZR.json"
+    },
+    {
+      "abbr": "NEH",
+      "book": "느헤미야",
+      "bookEn": "Nehemiah",
+      "bookKey": "느",
+      "testament": "old",
+      "totalChapters": 13,
+      "totalVerses": 406,
+      "file": "NEH.json"
+    },
+    {
+      "abbr": "EST",
+      "book": "에스더",
+      "bookEn": "Esther",
+      "bookKey": "에",
+      "testament": "old",
+      "totalChapters": 10,
+      "totalVerses": 167,
+      "file": "EST.json"
+    }
+  ],
+  "newTestament": [],
+  "books": [
+    {
+      "abbr": "1KI",
+      "book": "열왕기상",
+      "bookEn": "1 Kings",
+      "bookKey": "왕상",
+      "testament": "old",
+      "totalChapters": 22,
+      "totalVerses": 816,
+      "file": "1KI.json"
+    },
+    {
+      "abbr": "2KI",
+      "book": "열왕기하",
+      "bookEn": "2 Kings",
+      "bookKey": "왕하",
+      "testament": "old",
+      "totalChapters": 25,
+      "totalVerses": 719,
+      "file": "2KI.json"
+    },
+    {
+      "abbr": "1CH",
+      "book": "역대상",
+      "bookEn": "1 Chronicles",
+      "bookKey": "대상",
+      "testament": "old",
+      "totalChapters": 29,
+      "totalVerses": 942,
+      "file": "1CH.json"
+    },
+    {
+      "abbr": "2CH",
+      "book": "역대하",
+      "bookEn": "2 Chronicles",
+      "bookKey": "대하",
+      "testament": "old",
+      "totalChapters": 36,
+      "totalVerses": 822,
+      "file": "2CH.json"
+    },
+    {
+      "abbr": "EZR",
+      "book": "에스라",
+      "bookEn": "Ezra",
+      "bookKey": "스",
+      "testament": "old",
+      "totalChapters": 10,
+      "totalVerses": 280,
+      "file": "EZR.json"
+    },
+    {
+      "abbr": "NEH",
+      "book": "느헤미야",
+      "bookEn": "Nehemiah",
+      "bookKey": "느",
+      "testament": "old",
+      "totalChapters": 13,
+      "totalVerses": 406,
+      "file": "NEH.json"
+    },
+    {
+      "abbr": "EST",
+      "book": "에스더",
+      "bookEn": "Esther",
+      "bookKey": "에",
+      "testament": "old",
+      "totalChapters": 10,
+      "totalVerses": 167,
+      "file": "EST.json"
+    }
+  ]
+}
