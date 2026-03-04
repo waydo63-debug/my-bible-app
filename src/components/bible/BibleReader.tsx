@@ -251,9 +251,14 @@ export default function BibleReader({
                 {/* 절 목록 */}
                 <div className="space-y-1">
                     {verses.length === 0 ? (
-                        <p className="py-10 text-center text-gray-400">
-                            구절 데이터가 없습니다.
-                        </p>
+                        <div className="py-10 text-center">
+                            <p className="text-gray-400">
+                                구절 데이터를 불러올 수 없습니다.
+                            </p>
+                            <p className="mt-2 text-xs text-gray-300 dark:text-gray-600">
+                                경로: /bible-data/{currentVersion}/{currentBook.abbreviation?.toUpperCase()}.json
+                            </p>
+                        </div>
                     ) : (
                         verses.map((verse) => {
                             const isSelected = selectedVerses.includes(verse.verse);

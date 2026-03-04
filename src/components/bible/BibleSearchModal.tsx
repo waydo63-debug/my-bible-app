@@ -58,7 +58,7 @@ async function clientSearch(
         if (results.length >= maxResults) break;
 
         try {
-            const res = await fetch(`/bible-data/${version}/${book.abbr}.json`);
+            const res = await fetch(`/bible-data/${version}/${book.abbr.toUpperCase()}.json`);
             if (!res.ok) continue;
             const data = await res.json();
 
@@ -218,8 +218,8 @@ export default function BibleSearchModal({ isOpen, onClose }: BibleSearchModalPr
                             key={v.id}
                             onClick={() => setVersion(v.id)}
                             className={`rounded-full px-3 py-1 text-xs font-semibold transition-colors ${version === v.id
-                                    ? 'bg-[#4361ee] text-white shadow-sm'
-                                    : 'bg-gray-100 text-gray-500 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700'
+                                ? 'bg-[#4361ee] text-white shadow-sm'
+                                : 'bg-gray-100 text-gray-500 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700'
                                 }`}
                         >
                             {v.abbreviation}
